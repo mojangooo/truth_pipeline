@@ -230,3 +230,5 @@ cmake -S pipeline -B pipeline/build-debug -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_F
 - Alexander Obregon, [Writing Low-Latency C++ Applications](https://medium.com/@AlexanderObregon/writing-low-latency-c-applications-f759c94f52f8) (Medium), the starting point for this project
 - [Trump Media announcement of Truth API](https://finance.yahoo.com/technology/articles/trump-media-technology-group-launches-130000261.html)
 - [stiles/trump-truth-social-archive](https://github.com/stiles/trump-truth-social-archive), public archive of Truth Social posts
+
+Made by Django and Rapide
