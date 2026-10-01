@@ -231,4 +231,4 @@ cmake -S pipeline -B pipeline/build-debug -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_F
 - [Trump Media announcement of Truth API](https://finance.yahoo.com/technology/articles/trump-media-technology-group-launches-130000261.html)
 - [stiles/trump-truth-social-archive](https://github.com/stiles/trump-truth-social-archive), public archive of Truth Social posts
 
-Made by Django and Rapide
+Made by Django and Rapide and God
